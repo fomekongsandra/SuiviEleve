@@ -1,0 +1,110 @@
+
+
+
+
+     body{
+        
+        
+        width: auto;
+    }
+    
+    .container{
+        max-width: 700px;
+        padding: 5px;
+        margin: auto;
+       
+    
+    }
+ 
+    .container form{
+        
+        margin-left: 50px;
+    }
+    p{
+        color: black;
+    }
+    
+    .container form .user{
+        display: block;
+        flex-wrap: wrap;
+        margin:20px 0 12px 0 ;
+        max-height: 500px;
+    
+    }
+    
+    form .user .inputname{
+        margin-bottom: 15px;
+        margin-top: 10px;
+    }
+    .inputname .details{
+        display: block;
+        font-weight: 500;
+        margin-bottom: 5px;
+    }
+    .inputname input{
+        margin-top: 10px;
+        height: 45px;
+        width: 90%;
+        outline: none;
+        border-radius: 5px;
+        border: none;
+        background-color: rgb(235, 231, 231);
+        padding-left: 15px;
+        font-size: 16px;
+        transition: all 0.3s ease;
+    }
+    form .button {
+        height: 45px;
+    
+    
+    }
+    form .button input{
+        height: 100%;
+        width: 590px;
+        outline: none;
+        color:white;
+        background: blue;
+        border-radius: 5px;
+        border:none;
+        text-align: center;
+        font-size: 18px;
+        font-weight: 500;
+    }
+    form .button  input :hover{
+        background:white ;
+    
+    }
+    
+    .users {
+        margin-left: 30px;
+    }
+    
+    .head {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: .5rem 0;
+    }
+    
+    .users .user__info {
+        margin-left: 20px;
+    
+    }
+    
+    .user__info .name {
+        margin-bottom: 4px;
+        /* font-weight: bold; */
+    }
+    
+     
+    /* .notification__bulb2::after {
+        content: "";
+        position: absolute;
+        right: -2px;
+        top: -4px;
+        width: 10px;
+        height: 10px;
+        border-radius: 20px;
+        background-color: greenyellow;
+    } */
+    

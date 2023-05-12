@@ -1,0 +1,17 @@
+[
+    {
+        "nom": "pouani ",
+        "prenom": "david",
+        "telephone": "678667766",
+        "identifiant": 21,
+        "suivi": [
+            {
+                "id": 1666849693,
+                "titre_suivi": "Mason",
+                "DateAndTime": "10-27-2022 05:48:13",
+                "auteur": "tiako\n",
+                "suivi": "Pierre dur"
+            }
+        ]
+    }
+]
